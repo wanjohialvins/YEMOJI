@@ -1,4 +1,3 @@
-# YEMOJI
 <div align="center">
   <h1>YEMOJIi</h1>
 </div>
